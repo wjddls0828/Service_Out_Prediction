@@ -4,3 +4,6 @@
 
 
 실험 분석 결과, 세가지 실험(no feature selection, model based feature selection, iterative feature selection)에서 Logistic Regression이 평균적으로 가장 높은 성능을 보여주었다. 그리고 RandomForest 모델의 경우는 model based feature selection 이후 상대적으로 큰 성능 향상을 보여주었다. 그리고 feature의 수를 19개에서 15개, 10개로 줄여가며 진행했을 때, 10개로 줄였을 때 나머지 두 모델과는 달리 MLP는 AUC 측면에서의 성능 향상을 보여주었다. 
+
+
+![캡처 2](https://user-images.githubusercontent.com/58072776/159164294-a52c8d41-6d19-4beb-9e83-dc9217a0b0e3.JPG)
